@@ -1,0 +1,10 @@
+C:\dev\ServerClientEx\ServerClientEx\bin\Debug\ServerClientEx.exe.config
+C:\dev\ServerClientEx\ServerClientEx\bin\Debug\ServerClientEx.exe
+C:\dev\ServerClientEx\ServerClientEx\bin\Debug\ServerClientEx.pdb
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.csprojAssemblyReference.cache
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.ServerForm.resources
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.Properties.Resources.resources
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.csproj.GenerateResource.cache
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.csproj.CoreCompileInputs.cache
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.exe
+C:\dev\ServerClientEx\ServerClientEx\obj\Debug\ServerClientEx.pdb
