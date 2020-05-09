@@ -113,7 +113,6 @@
             this.Name = "ServerForm";
             this.Text = "Server";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.ServerForm_FormClosed);
-            this.Load += new System.EventHandler(this.ServerForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

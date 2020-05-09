@@ -45,11 +45,6 @@ namespace ServerClientEx
             StartServer();
         }
 
-        private void ServerForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void StartServer()
         {
             try
