@@ -34,7 +34,7 @@ namespace ClientForm
             InitializeComponent();
 
             // clear all text boxes
-            txtBoxSysMsg.Text = "Error messages appear here ...";
+            txtBoxSysMsg.Text = "Error messages appear here...";
             txtboxSend.Text = "Enter text here and press send button...";
             txtboxReceive.Text = "";
             // start client
@@ -53,7 +53,7 @@ namespace ClientForm
                 clientThread = new Thread(ReceiveStream);
                 // start thread
                 clientThread.Start();
-                txtboxReceive.Text = "Client started ..." + Environment.NewLine;
+                txtboxReceive.Text = "Client started..." + Environment.NewLine;
             }
             catch (Exception e)
             {

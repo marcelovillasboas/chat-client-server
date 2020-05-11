@@ -38,7 +38,7 @@ namespace ServerClientEx
             InitializeComponent();
 
             // clear all text boxes
-            txtboxSysMsg.Text = "Error messages appear here ...";
+            txtboxSysMsg.Text = "Error messages appear here...";
             txtboxSend.Text = "Enter text here and press send button...";
             txtboxReceive.Text = "";
             // run server
@@ -61,7 +61,7 @@ namespace ServerClientEx
                 serverThread = new Thread(ReceiveStream);
                 // start thread
                 serverThread.Start();
-                txtboxReceive.Text = "Server started ..." + Environment.NewLine;
+                txtboxReceive.Text = "Server started..." + Environment.NewLine;
             }
             catch (Exception e)
             {
